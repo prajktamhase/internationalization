@@ -1,0 +1,22 @@
+.container{
+    border: 1px solid gray ;
+    width: 500px;
+    padding: 40px 85px;
+    margin: 70px auto;
+    background-color:rgb(252, 199, 99);
+}
+body{
+    background-color: rgb(184, 251, 251);
+}
+.center{
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+}
+.text-container{
+    font-size: 20px;
+    padding: 2px 30px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}

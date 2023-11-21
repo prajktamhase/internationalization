@@ -1,0 +1,29 @@
+{
+    "en":{
+        "morninng":"Good Morning..!",
+        "welcomemsg":"Welcome..!",
+        "learningmsg":"We hope you enjoy learning react",
+        "greetingmsg":"Have a great day",
+        "sessionmsg":"<studentCount> student are learning in this session."
+
+    },
+
+    "mr":{
+        "welcomemsg":" स्वागत आहे !",
+        "learningmsg":"आम्हाला आशा आहे की तुम्हाला React शिकायला आवडेल..!",
+        "greetingmsg":"तुमचा दिवस चांगला जावो..!",
+        "sessionmsg":"या session मध्ये <studentCount> विद्यार्थी शिकत आहेत.",
+        "morninng":"शुभ प्रभात"
+
+    },
+
+    "hin":{
+        "welcomemsg":"स्वागत है |",
+        "learningmsg":"हमें आशा है कि आपको React सीखने में आनंद आएगा |",
+        "greetingmsg":"आपका दिन अच्छा रहे|",
+        "sessionmsg":"इस session में <studentCount> विद्यार्थी सीख रहे हैं।",
+        "morninng":"शुभ प्रभात |"
+
+    }
+
+}
